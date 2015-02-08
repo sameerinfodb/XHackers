@@ -1,0 +1,14 @@
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\Housee.WebAPI.dll.config
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\Housee.WebAPI.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\Housee.WebAPI.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\Newtonsoft.Json.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\System.Web.Http.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\Newtonsoft.Json.xml
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\System.Web.Http.xml
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\obj\Debug\Housee.WebAPI.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\obj\Debug\Housee.WebAPI.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.WebAPI\obj\Debug\Housee.WebAPI.csprojResolveAssemblyReference.cache

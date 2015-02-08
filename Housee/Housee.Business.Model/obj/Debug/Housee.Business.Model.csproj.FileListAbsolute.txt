@@ -1,0 +1,9 @@
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\Housee.Business.Model.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\Housee.Business.Model.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\obj\Debug\Housee.Business.Model.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\obj\Debug\Housee.Business.Model.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\Housee.Business.Model.dll.config
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\EntityFramework.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\EntityFramework.xml
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Model\bin\Debug\EntityFramework.SqlServer.xml

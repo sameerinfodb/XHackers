@@ -1,0 +1,11 @@
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\Housee.Business.Service.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\Housee.Business.Service.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\Housee.Business.Model.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\Housee.Business.Model.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\obj\Debug\Housee.Business.Service.csprojResolveAssemblyReference.cache
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\obj\Debug\Housee.Business.Service.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\obj\Debug\Housee.Business.Service.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\Housee.Data.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\EntityFramework.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\Housee.Data.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Business.Service\bin\Debug\EntityFramework.xml

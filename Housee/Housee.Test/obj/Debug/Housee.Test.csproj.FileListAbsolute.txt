@@ -1,0 +1,16 @@
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\obj\Debug\Housee.Test.csprojResolveAssemblyReference.cache
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Test.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Test.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Business.Service.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Business.Service.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\obj\Debug\Housee.Test.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\obj\Debug\Housee.Test.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Data.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Business.Model.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\EntityFramework.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Data.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Business.Model.pdb
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\EntityFramework.xml
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\Housee.Test.dll.config
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\XHackers\Hacks\HouseeProject\Housee\Housee.Test\bin\Debug\EntityFramework.SqlServer.xml
